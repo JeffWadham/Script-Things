@@ -3,8 +3,7 @@
 	===========================================================================
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2018 v5.5.153
 	 Created on:   	18/09/2018 9:48 AM
-	 Created by:   	Jeffrey Wadham
-	 Organization: 	Queensland Health
+	 Created by:   	Jeff Wadham
 	 Filename:     	New-ADMXTemplateReview.ps1
 	===========================================================================
 	.DESCRIPTION
